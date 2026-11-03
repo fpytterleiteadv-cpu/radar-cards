@@ -1,0 +1,10 @@
+{
+  "name": "radar-cards-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Gerador de carrossel do Radar de Noticias (Francisco Pytter Advocacia)",
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5",
+    "@fontsource/inter": "^5"
+  }
+}

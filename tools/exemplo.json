@@ -1,0 +1,41 @@
+{
+  "radar": "Radar Trabalhista",
+  "data": "03 · nov · 2026",
+  "kicker": "Assédio eleitoral",
+  "titulo_html": "4.305 denúncias em <em>três dias.</em> Sua empresa sabe onde está a linha?",
+  "lead": "Maior parte dos relatos envolve chefias que condicionaram emprego, benefícios ou clima interno ao voto dos empregados.",
+  "fonte": "Ministério Público do Trabalho (MPT)",
+  "status": "dados divulgados pelo órgão",
+  "impacto_titulo": "Onde a empresa se expõe sem perceber",
+  "impactos": [
+    {
+      "t": "Fala de líder vira prova contra a empresa",
+      "p": "Mensagem em grupo, reunião gravada ou print de WhatsApp bastam para abrir investigação."
+    },
+    {
+      "t": "Dano moral coletivo, não só individual",
+      "p": "O MPT pode pedir indenização coletiva, TAC e obrigações de fazer com multa diária."
+    },
+    {
+      "t": "Demissão pós-eleição entra no radar",
+      "p": "Desligamentos logo após o pleito são lidos como retaliação se não houver registro objetivo do motivo."
+    }
+  ],
+  "risco": "Sem política escrita e sem treinamento de gestores, a empresa responde pelo que a liderança disse — mesmo que a direção nunca tenha autorizado.",
+  "acao_titulo": "Três medidas antes da próxima reunião de equipe",
+  "acoes": [
+    "Comunicado formal: a empresa não orienta voto e não tolera pressão política.",
+    "Orientação escrita para gestores sobre o que não pode ser dito em grupos e reuniões.",
+    "Registro objetivo do motivo de cada desligamento nas semanas após eleições."
+  ],
+  "produto": "Raio-X Trabalhista Empresarial",
+  "cta_titulo": "Eu ajudo seu RH a fechar essa brecha.",
+  "cta_texto": "Diagnóstico de lideranças, comunicação interna e documentos — com plano de 30 dias para a sua operação.",
+  "n_cards": 3,
+  "tag": "Alta repercussão",
+  "bgword": "4.305",
+  "fonte_url": "mpt.mp.br › notícias",
+  "manchete_html": "MPT recebe <em>4.305 denúncias</em> de assédio eleitoral em apenas três dias",
+  "data_fonte": "03/11/2026",
+  "gancho_html": "Sua liderança sabe <em>onde está a linha?</em>"
+}
