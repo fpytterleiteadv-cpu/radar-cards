@@ -1,6 +1,6 @@
 # Rotina "Radar de Notícias" → carrossel no Instagram
 
-**Versão:** 1.0 · 03/11/2026 · Francisco Pytter Advocacia
+**Versão:** 1.1 · 03/11/2026 · Francisco Pytter Advocacia
 **Origem:** `ROTINAS_DE_PESQUISA_DE_NOTICIAS_ULTIMAS_4_SEMANAS.md` (Radar Trabalhista Preventivo + Radar Empresarial, antes no ChatGPT)
 
 ## 1. Objetivo
@@ -27,14 +27,17 @@ Transformar a notícia jurídica/empresarial mais relevante do período em um ca
 2. **Pesquisa web (últimas 48–72h):** fontes oficiais primeiro — tst.jus.br, stj.jus.br, stf.jus.br, gov.br/trabalho-e-emprego, mpt.mp.br e PRTs, TRTs, rad.cvm.gov.br, PGFN, Câmara/Senado — depois Migalhas, Conjur, Valor, Folha, UOL Economia, Reuters Brasil, Agência Brasil. Duas frentes: trabalhista preventivo e empresarial/societário.
 3. **Validação mínima:** data, órgão, processo/norma, status (liminar, sem trânsito, em apuração, PL em tramitação). Sem fonte primária localizável → pauta descartada.
 4. **Decidir se publica hoje:** (a) última publicação há ≥ 2 dias úteis, ou (b) notícia de alta demanda social (repercussão nacional, números expressivos, afeta a maioria dos empregadores/empresários, prazo correndo). Caso contrário: só registra a edição, não gera card.
-5. **Mapear produto** (catálogo FPL, `CATALOGO_PRODUTOS_JURIDICOS_FPL.md`):
-   - Jornada, escala, 5x2, intervalos, ponto → **Sprint de Adequação à Escala 5x2** (enquanto houver campanha) ou **Raio-X Trabalhista Empresarial**
-   - Assédio, lideranças, justa causa, demissões sensíveis, provas internas → **Raio-X Trabalhista Empresarial** (entrada) · **Academia Jurídica de Gestores** (treinamento) · **Blindagem Trabalhista** (implantação)
-   - NR-1, SST, fiscalização MTE/MPT, terceirização, PcD → **Raio-X Trabalhista Empresarial** → **Blindagem Trabalhista**
-   - Contratos, fornecedores, inadimplência, renovação → **Radar Contratual Empresarial** → **Arquitetura Contratual Empresarial**
-   - Sócios, governança, dissolução, responsabilidade de administrador, RJ → **Diagnóstico de Maturidade Societária** → **Acordo de Sócios Estratégico** / **Governança Societária Essencial**
-   - SaaS, dados, PI, plataformas → **SaaS/Tech Legal Readiness**
-   - Recorrência/assessoria → **FPL Jurídico Contínuo**
+5. **Mapear produto** — nomes oficiais do posicionamento (01/10/2026), que prevalecem sobre o catálogo de 31/10:
+   - Assédio, lideranças, justa causa, provas internas, NR-1/SST, fiscalização MTE/MPT, terceirização, PcD, jornada → **Diagnóstico Trabalhista Preventivo** (entrada) → **Programa de Blindagem Trabalhista** (implantação; treinamento de DP e gestores incluso)
+   - Escala/jornada 5x2, fim da 6x1 → **Consultoria de Adequação à Escala 5x2** (campanha), com o Diagnóstico Trabalhista Preventivo como entrada
+   - Contratos, fornecedores, inadimplência, renovação → **Check-up Contratual**
+   - Jurídico improvisado, empresa crescendo, regularização geral → **Quick Start Jurídico** + **Consultoria Jurídica Contínua (Consultoria 360)**
+   - Sócios, governança, dissolução, responsabilidade de administradores, RJ → **Governança + Acordo de Sócios** (estruturação societária)
+   - SaaS, dados, PI, plataformas → **Tech Legal Check-up** + **Legal as a Service**
+   - Agências de marketing → **Jurídico 360 para Agências**
+   - Recorrência → **Consultoria Jurídica Contínua (Consultoria 360)**
+   - Execução bloqueando a operação → contencioso estratégico e gestão de execução
+   - Não usar: "Assessoria Jurídica Empresarial Continuada", "Raio-X Trabalhista", "Radar Contratual", "Compliance Trabalhista 360", "Jurídico 360" isolado.
 6. **Redigir conteúdo** no JSON do gerador (sequência Fato → Impacto → Risco → Prevenção → CTA) + legenda (até 2.200 caracteres: gancho, 3 linhas de contexto, 3 bullets de ação, CTA, fonte, 5–8 hashtags).
 7. **Gerar cards:** clonar `radar-cards`, `cd tools && npm install`, `node gerar_cards.js conteudo.json ../AAAA/MM/DD`, commit e push.
 8. **Salvar edição no Drive** (`edicao_AAAA-MM-DD.md`) com conteúdo, legenda, URLs e bloco técnico.
@@ -68,6 +71,6 @@ Status: aguardando aprovação | publicado (link) | pulado | sem pauta
 
 ## 6. Pendências
 
-- Nomes de produto: o catálogo (31/10) usa "Raio-X Trabalhista Empresarial", "Radar Contratual" etc.; o posicionamento (01/10) usa "Diagnóstico e Blindagem Trabalhista", "Check-up Contratual", "Quick Start Jurídico". A rotina segue o **catálogo**; confirmar qual nomenclatura vai a público.
+- Nomes de produto: decidido em 03/11 — a rotina segue o **posicionamento de 01/10** (não o catálogo de 31/10).
 - Foto/print real no card 1: depende de o usuário fornecer a imagem.
 - Avaliar após 2 semanas: taxa de aprovação, ajustes pedidos, encaminhamentos gerados.
