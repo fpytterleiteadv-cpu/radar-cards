@@ -1,6 +1,6 @@
 # Rotina "Radar de Notícias" → carrossel no Instagram
 
-**Versão:** 1.1 · 03/11/2026 · Francisco Pytter Advocacia
+**Versão:** 1.2 · 04/11/2026 · Francisco Pytter Advocacia (1.2: varredura dedicada de societário e contratos)
 **Origem:** `ROTINAS_DE_PESQUISA_DE_NOTICIAS_ULTIMAS_4_SEMANAS.md` (Radar Trabalhista Preventivo + Radar Empresarial, antes no ChatGPT)
 
 ## 1. Objetivo
@@ -24,7 +24,9 @@ Transformar a notícia jurídica/empresarial mais relevante do período em um ca
 ## 3. Fluxo da execução
 
 1. **Dedupe:** listar as últimas 10 edições na pasta do Drive; extrair temas já publicados e data da última publicação.
-2. **Pesquisa web (últimas 48–72h):** fontes oficiais primeiro — tst.jus.br, stj.jus.br, stf.jus.br, gov.br/trabalho-e-emprego, mpt.mp.br e PRTs, TRTs, rad.cvm.gov.br, PGFN, Câmara/Senado — depois Migalhas, Conjur, Valor, Folha, UOL Economia, Reuters Brasil, Agência Brasil. Duas frentes: trabalhista preventivo e empresarial/societário.
+2. **Pesquisa web (últimas 48–72h):** fontes oficiais primeiro — tst.jus.br, stj.jus.br, stf.jus.br, gov.br/trabalho-e-emprego, mpt.mp.br e PRTs, TRTs, rad.cvm.gov.br, PGFN, Câmara/Senado — depois Migalhas, Conjur, Valor, Folha, UOL Economia, Reuters Brasil, Agência Brasil. Duas frentes, **cada uma com varredura própria e obrigatória** (a frente empresarial não pode depender das buscas gerais):
+   - **Trabalhista preventivo:** decisões TST/TRTs/STF, atos do MTE, fiscalizações e ações do MPT, normas (NR-1, jornada/5x2, PcD, assédio, justa causa, terceirização, SST).
+   - **Societário e contratos (varredura dedicada, incluída em 04/11/2026):** no mínimo estas consultas, sempre registradas no bloco técnico — (a) STJ 3ª e 4ª Turmas: contratos empresariais (inadimplência, rescisão, fornecedores, distribuição, locação empresarial, licenciamento de software/SaaS, arbitragem); (b) STJ: sociedade limitada, retirada/exclusão de sócio, apuração de haveres, responsabilidade de administradores, desconsideração da personalidade jurídica, acordo de sócios; (c) recuperação judicial/extrajudicial e falência (STJ, Câmaras Reservadas de Direito Empresarial do TJSP, TJAP, grandes casos de RJ); (d) DREI/Juntas Comerciais (instruções normativas, registro, CNPJ) e CVM (colegiado, sanções, resoluções); (e) PGFN (transação, cobrança, falência requerida pela União). Ler o Migalhas do dia e o Conjur com filtro empresarial. Fonte primária obrigatória (notícia ou acórdão no site do tribunal/órgão) antes de virar pauta.
 3. **Validação mínima:** data, órgão, processo/norma, status (liminar, sem trânsito, em apuração, PL em tramitação). Sem fonte primária localizável → pauta descartada.
 4. **Decidir se publica hoje:** (a) última publicação há ≥ 2 dias úteis, ou (b) notícia de alta demanda social (repercussão nacional, números expressivos, afeta a maioria dos empregadores/empresários, prazo correndo). Caso contrário: só registra a edição, não gera card.
 5. **Mapear produto** — nomes oficiais do posicionamento (01/10/2026), que prevalecem sobre o catálogo de 31/10:
@@ -62,6 +64,8 @@ Consultas executadas:
 Fontes oficiais verificadas:
 Fontes secundárias verificadas:
 Notícias encontradas / descartadas (motivo):
+Varredura societário/contratos (consultas a–e executadas e resultado, mesmo que "sem fato novo"):
+Pauta empresarial reserva (candidata para a próxima edição, com fonte primária a confirmar):
 Duplicidades identificadas:
 Pauta selecionada e critério (cadência | alta demanda):
 Produto mapeado:
