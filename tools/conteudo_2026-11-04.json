@@ -1,0 +1,40 @@
+{
+  "radar": "Radar Trabalhista",
+  "data": "04 · nov · 2026",
+  "data_fonte": "DOU 16/10/2026 · MTE 27/10/2026",
+  "tag": "Nova regra",
+  "bgword": "42h",
+  "kicker": "Escala 5x2",
+  "manchete_html": "Fim da 6x1: limite de 42 horas e duas folgas semanais passam a valer <em>em dezembro</em>",
+  "lead": "A Emenda Constitucional 141 deu 60 dias, contados de 16/10, para a adaptação. A portaria do MTE prevista para outubro ainda não saiu — mas o prazo segue correndo para todas as empresas.",
+  "fonte": "Congresso Nacional / Diário Oficial da União",
+  "fonte_url": "in.gov.br › DOU › Emenda Constitucional 141/2026",
+  "status": "em vigor; regulamentação do MTE pendente",
+  "gancho_html": "Faltam <em>menos de seis semanas.</em> Sua escala já fecha em 42 horas?",
+  "impacto_titulo": "O que muda na operação a partir de dezembro",
+  "impactos": [
+    {
+      "t": "Jornada menor, salário igual",
+      "p": "De 44 para 42 horas semanais na primeira etapa e 40 horas um ano depois, sem redução salarial. O custo da hora trabalhada sobe."
+    },
+    {
+      "t": "Dois dias de repouso remunerado por semana",
+      "p": "Vale para os contratos em vigor. Escala diferente do 5x2 só por acordo ou convenção coletiva, com folgas compensadas no mesmo mês."
+    },
+    {
+      "t": "Hora extra e banco de horas recalculados",
+      "p": "O que hoje é jornada normal passa a ser hora extra em dezembro. Ponto, compensação e escalas precisam ser refeitos antes disso."
+    }
+  ],
+  "risco": "Escala mantida no modelo antigo depois do prazo gera horas extras não pagas, autuação em fiscalização e um passivo que cresce a cada mês, empregado por empregado.",
+  "acao_titulo": "Três passos antes de meados de dezembro",
+  "acoes": [
+    "Mapear setores e turnos que hoje rodam em 6x1 ou acima de 42 horas semanais.",
+    "Redesenhar escalas, controle de ponto e banco de horas, conferindo a convenção coletiva da categoria.",
+    "Formalizar a mudança com os empregados e orientar gestores sobre o novo controle de jornada."
+  ],
+  "produto": "Consultoria de Adequação à Escala 5x2",
+  "cta_titulo": "Eu ajudo sua empresa a fechar a escala no prazo.",
+  "cta_texto": "Começa pelo Diagnóstico Trabalhista Preventivo e entrega o novo desenho de jornada, os documentos e a orientação ao RH e aos gestores.",
+  "n_cards": 3
+}
