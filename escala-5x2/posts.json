@@ -1,0 +1,93 @@
+[
+ {
+  "id": "01",
+  "tag": "O PRAZO",
+  "hook": "Sua escala tem data para quebrar: <em>16 de dezembro.</em>",
+  "kicker": "A 6x1 acaba. A jornada normal cai de 44 para 42 horas e cada empregado passa a ter duas folgas remuneradas por semana.",
+  "body": [
+   "Salário não reduz. As folgas não precisam ser sábado e domingo, nem seguidas.",
+   "Para a empresa, o prazo real é <b>15 de dezembro</b>: no dia 16 a escala nova já tem que estar rodando no ponto e na folha.",
+   "Em dezembro de 2027, o teto cai para 40 horas. Quem planeja só a primeira etapa refaz tudo em um ano."
+  ],
+  "cta": "Quer saber se a sua escala fecha a tempo? Me chama."
+ },
+ {
+  "id": "02",
+  "tag": "OS 24 MINUTOS",
+  "hook": "42 horas em 5 dias dá <em>8h24</em> por dia. O limite continua sendo 8.",
+  "kicker": "Esses 24 minutos só viram jornada normal com convenção ou acordo coletivo compatível.",
+  "body": [
+   "Sem instrumento coletivo, sobram duas saídas: antecipar as 40 horas agora ou pagar hora extra todo dia.",
+   "A segunda não é solução, é passivo: hora extra habitual reflete em férias, 13º, FGTS e rescisão.",
+   "Acordo individual não transforma os 24 minutos em jornada normal."
+  ],
+  "cta": "Eu verifico se a sua CCT autoriza ou não."
+ },
+ {
+  "id": "03",
+  "tag": "O FALSO 5x2",
+  "hook": "Já trabalha de segunda a sexta? <em>Ainda não está adequado.</em>",
+  "kicker": "44 horas em 5 dias é 8h48 por dia. Em dezembro isso deixa de ser jornada normal.",
+  "body": [
+   "Vai ter que escolher: reduzir para 8 horas e antecipar as 40, ou negociar instrumento coletivo para 8h24 na transição.",
+   "Estar no 5x2 não é o mesmo que cumprir a regra. A pergunta é quantas horas as pessoas realmente trabalham por dia."
+  ],
+  "cta": "Me manda a sua escala atual que eu digo em qual cenário você está."
+ },
+ {
+  "id": "04",
+  "tag": "A FOLGA COMPRADA",
+  "hook": "Pagar em dobro <em>não compra</em> a segunda folga.",
+  "kicker": "Emergência acontece: o empregado trabalhou na folga, a empresa devolve outra.",
+  "body": [
+   "Sem devolver, paga em dobro. Mas se isso se repete toda semana, não é emergência — é escala mal dimensionada, e o passivo cresce a cada semana.",
+   "Folga pode ser remanejada. Não pode ser eliminada e trocada por dinheiro de forma permanente."
+  ],
+  "cta": "Ajudo seu RH a montar o revezamento que fecha."
+ },
+ {
+  "id": "05",
+  "tag": "A CCT ANTIGA",
+  "hook": "Sua convenção foi escrita para 44 horas. <em>Ela não vai te proteger.</em>",
+  "kicker": "Cláusulas de 8h48, compensação de sábado e uma folga só perdem efeito em dezembro.",
+  "body": [
+   "CCT vigente não é CCT compatível. E CCT omissa não autoriza 8h24 automaticamente.",
+   "Banco de horas e limite genérico de 10 horas diárias também não resolvem, sozinhos, a jornada de transição."
+  ],
+  "cta": "Eu faço a auditoria das cláusulas que ficam e das que caem."
+ },
+ {
+  "id": "06",
+  "tag": "A EQUIPE QUE ENCOLHE",
+  "hook": "A mesma equipe vai entregar <em>40 horas a menos</em> por semana.",
+  "kicker": "Dez pessoas: 440 horas hoje, 420 em dezembro, 400 em 2027.",
+  "body": [
+   "Se a conta já fecha no limite, não fecha: férias, faltas, intervalos e pico não cabem.",
+   "Não significa contratar automaticamente. Significa descobrir em que dia, horário e função as horas vão faltar.",
+   "Uma hora administrativa na segunda não substitui uma hora de atendimento no domingo."
+  ],
+  "cta": "Calculo a cobertura da sua operação com margem."
+ },
+ {
+  "id": "07",
+  "tag": "O GERENTE SEM PONTO",
+  "hook": "Seu “gerente” trabalha das 10h às 22h sem ponto. <em>Ele não é gerente.</em>",
+  "kicker": "Cargo de confiança exige poder real de gestão, autonomia e salário compatível.",
+  "body": [
+   "Sem isso, o enquadramento cai e a jornada inteira é apurada — com horas extras, intervalos e repousos.",
+   "E mesmo o gerente de verdade mantém o direito às duas folgas. Cargo de confiança dispensa o ponto; não dispensa o descanso."
+  ],
+  "cta": "Reviso o enquadramento dos seus cargos de confiança."
+ },
+ {
+  "id": "08",
+  "tag": "O ERRO DE COMEÇAR PELO PONTO",
+  "hook": "Mudar o sistema de ponto não adequa a empresa. <em>Só registra o erro mais rápido.</em>",
+  "kicker": "A ordem é outra: mapear, simular, decidir, formalizar — e só então parametrizar.",
+  "body": [
+   "1. Mapear a escala real, não a do contrato.<br>2. Calcular quantas horas a operação precisa.<br>3. Ler a CCT.<br>4. Decidir: 40 ou 42 horas.<br>5. Formalizar instrumentos e políticas.<br>6. Só então ajustar ponto e folha.",
+   "O ponto registra a decisão. Não toma a decisão pela empresa."
+  ],
+  "cta": "Eu conduzo esse diagnóstico com o seu RH antes do dia 15."
+ }
+]
