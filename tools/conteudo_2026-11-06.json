@@ -1,0 +1,40 @@
+{
+  "radar": "Radar Empresarial",
+  "data": "06 · nov · 2026",
+  "data_fonte": "STJ · 03/11/2026",
+  "tag": "Decisão recente",
+  "bgword": "10 mil",
+  "kicker": "Contratos de software",
+  "manchete_html": "STJ: empresa com 10 mil licenças de software não pode renovar o suporte <em>só para 800 usuários</em>",
+  "lead": "A 3ª Turma manteve a cláusula de quantidade mínima para renovar o suporte. Reduções aceitas no passado não criaram direito a reduzir de novo — e a licença \"perpétua\" não dispensa o contrato de manutenção.",
+  "fonte": "STJ · 3ª Turma · REsp 2.073.364/SP",
+  "fonte_url": "stj.jus.br › 3ª Turma › REsp 2.073.364",
+  "status": "decisão unânime de 03/11; acórdão pendente de publicação",
+  "gancho_html": "Quanto a sua empresa paga por <em>licenças que ninguém usa?</em>",
+  "impacto_titulo": "Onde o contrato de software pesa no caixa",
+  "impactos": [
+    {
+      "t": "Quantidade mínima vale, mesmo com uso menor",
+      "p": "Se o contrato fixa um piso de licenças para o suporte, a empresa paga por ele — ainda que a equipe tenha encolhido."
+    },
+    {
+      "t": "Tolerância passada não vira direito",
+      "p": "O fornecedor que aceitou reduzir antes pode negar depois. Sem aditivo assinado, a redução não se sustenta."
+    },
+    {
+      "t": "Licença perpétua não é sistema garantido",
+      "p": "Sem o suporte contratado, as atualizações param e o acesso pode ser encerrado conforme o contrato. ERP, fiscal e folha ficam expostos."
+    }
+  ],
+  "risco": "Contratos de ERP, PDV e SaaS renovados no automático prendem a empresa a um custo fixo que não acompanha a operação — e a cláusula só aparece quando a conta já não fecha.",
+  "acao_titulo": "Três medidas antes da próxima renovação",
+  "acoes": [
+    "Levantar todos os contratos de software e licenças, com data de renovação, quantidade mínima e regra de redução.",
+    "Formalizar aditivo escrito sempre que o número de usuários mudar — reduzir na prática não basta.",
+    "Ler as cláusulas de suporte, reajuste, rescisão e desativação antes de assinar ou renovar."
+  ],
+  "produto": "Check-up Contratual",
+  "cta_titulo": "Eu ajudo sua empresa a revisar esses contratos.",
+  "cta_texto": "O Check-up Contratual mapeia fornecedores, licenças e cláusulas de risco e entrega um plano de renegociação e padronização para a operação.",
+  "n_cards": 3
+}

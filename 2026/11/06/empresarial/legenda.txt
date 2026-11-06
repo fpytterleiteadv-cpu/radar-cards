@@ -1,0 +1,21 @@
+Quanto a sua empresa paga por licenças de software que ninguém usa?
+
+O STJ decidiu, na terça-feira (3), que uma empresa com cerca de 10 mil licenças de um sistema não podia renovar o suporte técnico só para os 800 usuários que ainda usavam o programa. O contrato fixava quantidade mínima — e a cláusula valeu.
+
+A 3ª Turma foi unânime: reduções aceitas pelo fornecedor no passado não criaram direito a reduzir de novo, e a licença "perpétua" não garante o sistema sem o contrato de suporte e atualização (REsp 2.073.364/SP, rel. Min. Moura Ribeiro; acórdão pendente de publicação).
+
+Para quem roda ERP, PDV, folha ou qualquer SaaS no automático, o recado é prático: o custo fixo do contrato não acompanha a operação sozinho.
+
+O que fazer antes da próxima renovação:
+▪ Levantar todos os contratos de software, com data de renovação, quantidade mínima e regra de redução.
+▪ Formalizar aditivo escrito sempre que o número de usuários mudar — reduzir na prática não basta.
+▪ Ler as cláusulas de suporte, reajuste, rescisão e desativação antes de assinar ou renovar.
+
+Eu ajudo sua empresa a revisar esses contratos. O Check-up Contratual mapeia fornecedores, licenças e cláusulas de risco e entrega um plano de renegociação e padronização para a operação.
+WhatsApp (96) 99103-1818 · franciscopytteradvocacia.com
+
+Fonte: STJ, 3ª Turma, REsp 2.073.364/SP (03/11/2026), via Migalhas.
+
+Francisco Pytter — Advocacia Empresarial
+
+#direitoempresarial #contratos #software #saas #erp #stj #advocaciaempresarial #macapa
