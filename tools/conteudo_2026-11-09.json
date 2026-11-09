@@ -1,0 +1,31 @@
+{
+  "radar": "Radar Trabalhista",
+  "data": "09 · nov · 2026",
+  "data_fonte": "TST · 20/10/2026",
+  "tag": "Decisão recente",
+  "bgword": "INSS",
+  "kicker": "Limbo previdenciário",
+  "manchete_html": "TST: INSS deu alta, médico da empresa disse \"inapta\" — e <em>o salário do período é da empresa</em>",
+  "lead": "A 3ª Turma foi unânime: cessado o benefício, o contrato volta a valer e cabe ao empregador readmitir ou readaptar. A divergência entre perícia do INSS e medicina do trabalho não pode ser transferida ao empregado. Indenização por dano moral fixada em R$ 20 mil (Tema 88).",
+  "fonte": "TST · 3ª Turma · RR 0010475-16.2021.5.03.0181",
+  "fonte_url": "tst.jus.br › 3ª Turma › RR 10475-16.2021",
+  "status": "decisão unânime; acórdão divulgado em 08/11",
+  "gancho_html": "Quem paga o salário quando o INSS libera e <em>o seu médico não?</em>",
+  "impacto_titulo": "Onde o retorno do afastado vira passivo",
+  "impactos": [
+    {"t": "Alta do INSS reativa o contrato", "p": "Cessado o benefício, a suspensão acaba. Se a empresa não dá função, o salário do período é devido — mesmo sem trabalho prestado."},
+    {"t": "\"Inapto\" do médico do trabalho não suspende nada", "p": "A divergência com a perícia do INSS é problema do empregador. Cabe readaptar em função compatível, não barrar o retorno."},
+    {"t": "Dano moral presumido (Tema 88)", "p": "Impedir o retorno e deixar o empregado sem renda gera dano moral in re ipsa. Além dos salários, reajustes e reflexos."}
+  ],
+  "risco": "Cada afastamento longo sem fluxo de retorno definido é um passivo que cresce em silêncio: salários atrasados de meses ou anos, reflexos e indenização — descobertos só na reclamação.",
+  "acao_titulo": "Três medidas para o próximo retorno de afastamento",
+  "acoes": [
+    "Criar um fluxo escrito de retorno: alta do INSS → exame de retorno em até 1 dia útil → decisão formal (retomar, readaptar ou recorrer ao INSS).",
+    "Nunca deixar o empregado \"em casa aguardando\": se o médico do trabalho discorda da alta, readaptar em função compatível e pagar o salário enquanto a empresa questiona a perícia.",
+    "Documentar cada etapa (ASO, laudo, comunicações, oferta de função) e orientar DP e gestores sobre o que fazer no dia da alta."
+  ],
+  "produto": "Diagnóstico Trabalhista Preventivo",
+  "cta_titulo": "Eu ajudo seu RH a fechar essa brecha.",
+  "cta_texto": "O Diagnóstico Trabalhista Preventivo mapeia afastamentos, retornos e a documentação de SST da sua operação e entrega um plano de 30 dias — porta de entrada do Programa de Blindagem Trabalhista.",
+  "n_cards": 3
+}
