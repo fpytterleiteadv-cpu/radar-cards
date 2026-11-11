@@ -1,0 +1,40 @@
+{
+  "radar": "Radar Empresarial",
+  "data": "11 · nov · 2026",
+  "data_fonte": "STJ · divulgação 10/11/2026",
+  "tag": "Decisão recente",
+  "bgword": "15 dias",
+  "kicker": "Recuperação judicial",
+  "manchete_html": "STJ anula assembleia de credores: plano de recuperação foi alterado <em>minutos antes da votação</em>",
+  "lead": "A 3ª Turma, por unanimidade, manteve a anulação decidida pelo TJ-GO. Mudanças relevantes no plano exigem publicidade e o prazo mínimo de 15 dias para os credores analisarem — sem isso, a aprovação não vale.",
+  "fonte": "STJ · 3ª Turma · REsp 1.933.757 e conexos · rel. Min. Moura Ribeiro",
+  "fonte_url": "stj.jus.br › 3ª Turma › REsp 1.933.757",
+  "status": "decisão unânime da 3ª Turma; acórdão pendente de publicação",
+  "gancho_html": "Sua empresa vende a prazo? Então um dia ela pode ser <em>credora em uma recuperação judicial.</em>",
+  "impacto_titulo": "O que essa decisão muda para a sua empresa",
+  "impactos": [
+    {
+      "t": "Credor tem direito de analisar o plano com antecedência",
+      "p": "Aditivo relevante apresentado em cima da hora não obriga ninguém a votar no escuro: a lei exige 15 dias (Lei 11.101, arts. 36 e 56, §3º) e o STJ fez valer."
+    },
+    {
+      "t": "Para quem está em crise, o atalho custa caro",
+      "p": "A empresa devedora perdeu a assembleia inteira e terá de apresentar novo plano. Meses de negociação voltam ao início."
+    },
+    {
+      "t": "O Judiciário controla a legalidade, não o negócio",
+      "p": "O STJ não discutiu se o plano era bom ou ruim — só se as regras foram cumpridas. Forma e prazo decidiram o resultado."
+    }
+  ],
+  "risco": "Quem não acompanha a recuperação judicial do cliente inadimplente descobre tarde que o crédito sofreu deságio ou alongamento de anos — e quem conduz a própria reestruturação sem método pode ver a assembleia anulada.",
+  "acao_titulo": "Três medidas para proteger o crédito da empresa",
+  "acoes": [
+    "Mapear quais clientes e fornecedores estão em recuperação judicial e habilitar os créditos no prazo.",
+    "Acompanhar edital, plano e aditivos: exigir os 15 dias e registrar objeções antes da assembleia.",
+    "Revisar contratos de venda a prazo: garantias, vencimento antecipado e limite de crédito reduzem a exposição."
+  ],
+  "produto": "Check-up Contratual",
+  "cta_titulo": "Eu ajudo sua empresa a proteger o que tem a receber.",
+  "cta_texto": "O Check-up Contratual revisa contratos, garantias e inadimplência e organiza o acompanhamento dos créditos da empresa em recuperações judiciais.",
+  "n_cards": 3
+}
