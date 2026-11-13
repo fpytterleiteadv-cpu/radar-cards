@@ -1,0 +1,40 @@
+{
+  "radar": "Radar Trabalhista",
+  "data": "13 · nov · 2026",
+  "data_fonte": "STF · decisão de 12/11/2026",
+  "tag": "Alta repercussão",
+  "bgword": "90 dias",
+  "kicker": "Escala 5x2 · acordos coletivos",
+  "manchete_html": "STF: cláusulas de acordos coletivos incompatíveis com a 5x2 <em>perdem efeito em 16 de dezembro</em>",
+  "lead": "Decisão cautelar do ministro Flávio Dino (ADIs 8.041 e 8.042) manteve o calendário da EC 141 e abriu 90 dias, contados de 16/12, para empresas e sindicatos renegociarem as contrapartidas dos acordos em vigor.",
+  "fonte": "STF · ADI 8.041 MC (com ADI 8.042) · rel. Min. Flávio Dino · 12/11/2026",
+  "fonte_url": "stf.jus.br › ADI 8.041 › medida cautelar",
+  "status": "medida cautelar monocrática, com efeitos imediatos; sujeita a referendo do Plenário",
+  "gancho_html": "Seu acordo coletivo foi desenhado para a 6x1? <em>Parte dele deixa de valer em 16/12.</em>",
+  "impacto_titulo": "O que muda para quem tem acordo ou convenção",
+  "impactos": [
+    {
+      "t": "A cláusula incompatível cai; o resto do acordo fica",
+      "p": "A partir de 16/12, o que contrariar as 42 horas e os dois repousos não produz efeitos — escalas, banco de horas e compensações pensados para a 6x1 entram nessa conta. As demais cláusulas valem até o fim da vigência."
+    },
+    {
+      "t": "90 dias para renegociar — sem cortar contrapartidas",
+      "p": "Vantagens pactuadas em troca da jornada antiga não podem ser extintas nem alteradas unilateralmente pela empresa. Sem novo acordo, a disputa vai para a Justiça do Trabalho."
+    },
+    {
+      "t": "Sem acordo até 15/12, vale a regra de transição",
+      "p": "42 horas em cinco dias de até 8h24, sem adicional sobre os 24 minutos, até 15/12/2027. Folgas podem ser remanejadas por negociação coletiva, preservados os dois repousos."
+    }
+  ],
+  "risco": "Quem chegar a 16/12 com a escala antiga e o acordo sem revisão opera com cláusulas sem efeito, horas não previstas na folha e contrapartidas em disputa — o passivo nasce no primeiro mês da nova jornada, não no processo.",
+  "acao_titulo": "Três medidas antes de 15 de dezembro",
+  "acoes": [
+    "Levantar acordos e convenções vigentes e marcar cada cláusula que depende das 44 horas ou da escala 6x1.",
+    "Definir a escala de transição por setor (5x2 com 8h24 ou modelo negociado) e simular o impacto em folha, banco de horas e turnos.",
+    "Abrir a renegociação com o sindicato com proposta escrita, preservando as contrapartidas até o novo acordo."
+  ],
+  "produto": "Consultoria de Adequação à Escala 5x2",
+  "cta_titulo": "Eu ajudo sua empresa a chegar a 16/12 com a escala e o acordo prontos.",
+  "cta_texto": "A Consultoria de Adequação à Escala 5x2 começa pelo Diagnóstico Trabalhista Preventivo: revisão dos acordos, desenho da nova escala e roteiro de negociação para a sua operação.",
+  "n_cards": 3
+}
