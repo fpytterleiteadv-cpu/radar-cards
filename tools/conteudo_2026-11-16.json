@@ -1,0 +1,40 @@
+{
+  "radar": "Radar Trabalhista",
+  "data": "16 · nov · 2026",
+  "data_fonte": "TST · notícia de 13/11/2026",
+  "tag": "Decisão recente",
+  "bgword": "212",
+  "kicker": "Dispensa coletiva · etarismo",
+  "manchete_html": "TST: demitir quem já pode se aposentar é etarismo — <em>212 reintegrados e R$ 10 milhões</em>",
+  "lead": "Por maioria, a SDI-1 restabeleceu a condenação do TRT-1 contra a Casa da Moeda: reintegração, pagamento do período de afastamento e R$ 10 milhões por dano moral coletivo. Pesou também o corte em massa sem negociação prévia com o sindicato.",
+  "fonte": "TST · SDI-1 · Emb-ED-RRAg 100339-71.2018.5.01.0037",
+  "fonte_url": "tst.jus.br › notícias › SDI-1",
+  "status": "decisão por maioria",
+  "gancho_html": "Cortar quem \"já pode se aposentar\" parece neutro. <em>Para o TST, é etarismo.</em>",
+  "impacto_titulo": "Onde a reestruturação vira passivo",
+  "impactos": [
+    {
+      "t": "\"Aposentado\" ou \"apto a se aposentar\" é critério de idade",
+      "p": "Escolher quem já tem outra renda foi lido como etarismo (Lei 9.029/95 e Estatuto da Pessoa Idosa). No mesmo dia, a 2ª Turma aplicou a regra a dispensas individuais."
+    },
+    {
+      "t": "Corte coletivo sem o sindicato antes não se sustenta",
+      "p": "A SDI-1 apontou indiferença à jurisprudência do STF e do TST sobre dispensa em massa: a negociação coletiva prévia é requisito, não cortesia."
+    },
+    {
+      "t": "A conta volta multiplicada",
+      "p": "Reintegração com o período de afastamento desde 2018, R$ 10 milhões de dano moral coletivo e multa por descumprimento — a economia prevista virou o maior custo."
+    }
+  ],
+  "risco": "Uma reestruturação decidida por conveniência de folha, sem critério neutro escrito e sem o sindicato na mesa, pode ser desfeita anos depois — com salários retroativos, reintegração e condenação coletiva. O passivo nasce na lista de nomes.",
+  "acao_titulo": "Três medidas antes de qualquer corte coletivo",
+  "acoes": [
+    "Fixar por escrito critérios objetivos e neutros de seleção (setor extinto, função, voluntariedade, desempenho documentado) — nunca idade, aposentadoria, afastamento ou condição de saúde.",
+    "Chamar o sindicato antes do ato: apresentar motivos econômicos, números e alternativas (PDV, redução de jornada, realocação), com ata e propostas registradas.",
+    "Passar a lista final por filtro antidiscriminatório (idade, gênero, PcD, afastados, estabilidades) e arquivar a motivação econômica com os documentos que a comprovam."
+  ],
+  "produto": "Diagnóstico Trabalhista Preventivo",
+  "cta_titulo": "Eu ajudo sua empresa a reestruturar sem criar o próximo passivo.",
+  "cta_texto": "O Diagnóstico Trabalhista Preventivo revisa critérios de dispensa, roteiro de negociação coletiva e documentação da reestruturação — porta de entrada do Programa de Blindagem Trabalhista.",
+  "n_cards": 3
+}
