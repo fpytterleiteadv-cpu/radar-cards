@@ -1,0 +1,40 @@
+{
+  "radar": "Radar Trabalhista",
+  "data": "16 · nov · 2026",
+  "data_fonte": "STF · 14/11/2026",
+  "tag": "Alta repercussão",
+  "bgword": "30 dias",
+  "kicker": "Escala 5x2 · STF",
+  "manchete_html": "Fux leva a 6x1 ao plenário presencial; <em>liminar de Dino segue valendo e 16/12 não muda</em>",
+  "lead": "O destaque pedido no sábado (14/11) zera os quatro votos do plenário virtual (Dino, Moraes, Cármen Lúcia e Gilmar) e reinicia o julgamento em sessão presencial, sem data. Até lá valem a cautelar e seu calendário: 42 horas e dois repousos a partir de 16/12, 90 dias para renegociar acordos e transição de 8h24 sem adicional.",
+  "fonte": "STF · ADIs 8.041 e 8.042 · destaque do Min. Fux",
+  "fonte_url": "stf.jus.br › plenário › ADI 8.041",
+  "status": "cautelar em vigor; referendo reiniciado, sem data",
+  "gancho_html": "Faltam 30 dias. <em>Esperar o plenário não é plano.</em>",
+  "impacto_titulo": "O que vale enquanto o STF não decide",
+  "impactos": [
+    {
+      "t": "16/12 continua sendo a data",
+      "p": "Jornada máxima de 42 horas e dois repousos semanais; cláusulas de acordos e convenções incompatíveis perdem efeito nessa data. O destaque não suspende nada."
+    },
+    {
+      "t": "Transição e 90 dias seguem valendo",
+      "p": "Sem acordo até 15/12: 42h em cinco dias de até 8h24, sem adicional sobre os 24 minutos, até 15/12/2027. Contrapartidas dos acordos não podem ser cortadas unilateralmente na renegociação."
+    },
+    {
+      "t": "O plenário pode confirmar, ajustar ou derrubar",
+      "p": "O julgamento recomeça do zero, sem data; o decreto do governo é esperado nesta semana. Quem só planejar depois chega a dezembro sem escala, sem folha simulada e sem acordo."
+    }
+  ],
+  "risco": "Operar em 16/12 com a escala antiga, à espera do plenário, significa horas além do limite, cláusulas sem efeito na folha e contrapartidas em disputa — com a cautelar valendo, o passivo nasce no primeiro dia da nova jornada.",
+  "acao_titulo": "Três medidas para os próximos 30 dias",
+  "acoes": [
+    "Fechar a escala de transição por setor com a regra vigente (5x2 com 8h24 ou modelo negociado) e simular folha, banco de horas e turnos — com plano B se o plenário alterar a cautelar.",
+    "Levantar acordos e convenções, marcar cada cláusula ligada às 44 horas ou à 6x1 e abrir a renegociação com o sindicato por proposta escrita, preservando as contrapartidas.",
+    "Acompanhar a sessão presencial do STF e o decreto de regulamentação (neutralidade salarial, compensação de folgas) e ajustar a escala em até uma semana após cada um."
+  ],
+  "produto": "Consultoria de Adequação à Escala 5x2",
+  "cta_titulo": "Eu ajudo sua empresa a chegar a 16/12 pronta, decida o plenário o que decidir.",
+  "cta_texto": "A Consultoria de Adequação à Escala 5x2 começa pelo Diagnóstico Trabalhista Preventivo: escala por setor, simulação de folha, revisão dos acordos e roteiro de negociação.",
+  "n_cards": 3
+}
