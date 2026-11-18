@@ -1,0 +1,40 @@
+{
+  "radar": "Radar Empresarial",
+  "data": "18 · nov · 2026",
+  "data_fonte": "STJ · julgamento 17/11/2026",
+  "tag": "Decisão recente",
+  "bgword": "sem contrato",
+  "kicker": "Contratos empresariais",
+  "manchete_html": "STJ nega indenização a empresa que prometeu energia ao cliente com base em <em>negociação por telefone</em>",
+  "lead": "A 1ª Turma manteve a decisão que negou prejuízos e lucros cessantes: quem negocia com quem não tem poderes para fechar, sabendo que o negócio depende de formalidades, assume o risco de a compra não se concretizar.",
+  "fonte": "STJ · 1ª Turma · AREsp 3.112.879 · rel. Min. Gurgel de Faria",
+  "fonte_url": "stj.jus.br › 1ª Turma › AREsp 3.112.879",
+  "status": "decisão colegiada (17/11); acórdão pendente de publicação",
+  "gancho_html": "Quanto do faturamento da sua empresa está apoiado em <em>acordos que só existem no telefone ou no WhatsApp?</em>",
+  "impacto_titulo": "O que essa decisão muda para a sua empresa",
+  "impactos": [
+    {
+      "t": "Tratativa não é contrato",
+      "p": "Romper uma negociação, por si só, não gera dever de indenizar. Sem expectativa legítima criada pela outra parte e prejuízo comprovado, não há responsabilidade pré-contratual."
+    },
+    {
+      "t": "Quem fala pela outra empresa importa",
+      "p": "Negociar com quem não tinha poderes para fechar o negócio pesou contra quem pediu a indenização. Cargo, procuração e alçada precisam ser conferidos antes."
+    },
+    {
+      "t": "Na venda em cadeia, o risco é de quem promete",
+      "p": "Comprometer-se com o cliente antes de garantir o fornecedor deixou o prejuízo com a própria empresa — e o STJ não reexamina a prova (Súmula 7)."
+    }
+  ],
+  "risco": "Sem formalizar as etapas da negociação — proposta, aceite, quem assina — a empresa pode arcar sozinha com o prejuízo quando o fornecedor recua, e ainda responder perante o cliente a quem prometeu entregar.",
+  "acao_titulo": "Três medidas para fechar essa brecha",
+  "acoes": [
+    "Formalizar tratativas relevantes por escrito: proposta, prazo de validade, condições e o que ainda depende de aprovação.",
+    "Conferir os poderes de quem negocia do outro lado (contrato social, procuração, alçada) antes de assumir compromissos com terceiros.",
+    "Condicionar a venda ao cliente à confirmação formal do fornecedor — ou prever no contrato a hipótese de não fornecimento."
+  ],
+  "produto": "Check-up Contratual",
+  "cta_titulo": "Eu ajudo sua empresa a fechar negócio com segurança.",
+  "cta_texto": "O Check-up Contratual revisa propostas, contratos com fornecedores e clientes e a cadeia de aprovação — para que a operação não dependa de acordos informais.",
+  "n_cards": 3
+}
