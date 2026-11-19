@@ -1,0 +1,40 @@
+{
+  "radar": "Radar Trabalhista",
+  "data": "19 · nov · 2026",
+  "data_fonte": "TST · notícia de 17/11/2026",
+  "tag": "Fiscalização",
+  "bgword": "R$ 200 mil",
+  "kicker": "Saúde e segurança · NR-17",
+  "manchete_html": "Sem cadeira nas pausas e jornadas de 14 horas: TST condena rede de drogarias a <em>R$ 200 mil por dano moral coletivo</em>",
+  "lead": "A 6ª Turma, por unanimidade, reformou o TRT-24 em ação do MPT: além de instalar assentos (multa de R$ 500 por infração e por empregado) e respeitar limite de horas extras, intervalo entre jornadas e descanso semanal, a rede de 99 lojas vai indenizar a coletividade. Começou numa fiscalização por denúncia — e a empresa não corrigiu após a primeira multa.",
+  "fonte": "TST · 6ª Turma · RRAg-24972-34.2014.5.24.0007",
+  "fonte_url": "tst.jus.br › notícias › 6ª Turma",
+  "status": "decisão unânime de Turma; cabe recurso à SDI-1",
+  "gancho_html": "Quem trabalha em pé na sua loja tem onde sentar na pausa? <em>Para o TST, a resposta vale R$ 200 mil.</em>",
+  "impacto_titulo": "Onde a rotina da loja vira passivo",
+  "impactos": [
+    {
+      "t": "Assento na pausa é obrigação, não cortesia",
+      "p": "A NR-17 exige assentos para quem trabalha predominantemente em pé, em local acessível nas pausas. Vale para comércio, farmácia, supermercado, indústria e serviços — não só para o caixa."
+    },
+    {
+      "t": "Multa ignorada vira ação coletiva",
+      "p": "A fiscalização autuou, a empresa não corrigiu e o MPT ajuizou ação civil pública. O auto de infração não encerra o problema: é o aviso de que o próximo passo é judicial."
+    },
+    {
+      "t": "O dano coletivo tem função pedagógica",
+      "p": "O TST fixou os R$ 200 mil considerando a gravidade da conduta e o porte da empresa (99 filiais), com função punitiva, pedagógica e compensatória — mesmo depois de 1º e 2º graus terem negado."
+    }
+  ],
+  "risco": "Jornada acima do limite, intervalo entre jornadas encurtado e descanso semanal irregular aparecem na mesma fiscalização. Sem corrigir e documentar a correção, a empresa acumula autos de infração, horas extras em cadeia e uma condenação coletiva que não depende de nenhum empregado reclamar.",
+  "acao_titulo": "Três medidas antes da próxima fiscalização",
+  "acoes": [
+    "Mapear os postos em pé (balcão, reposição, atendimento) e instalar assentos nas áreas de pausa, com registro fotográfico e inclusão no PGR e no laudo ergonômico da NR-17.",
+    "Auditar o ponto dos últimos 12 meses: horas extras acima de 2 por dia, intervalo entre jornadas menor que 11 horas e descanso semanal sem as 24 horas consecutivas.",
+    "Tratar todo auto de infração como projeto: plano de correção com prazo, responsável e comprovantes arquivados — a prova de que a empresa corrigiu é o que afasta o dano coletivo."
+  ],
+  "produto": "Diagnóstico Trabalhista Preventivo",
+  "cta_titulo": "Eu ajudo sua empresa a passar pela fiscalização sem virar ação coletiva.",
+  "cta_texto": "O Diagnóstico Trabalhista Preventivo revisa jornada, intervalos, ergonomia (NR-17) e a resposta da empresa a autos de infração — porta de entrada do Programa de Blindagem Trabalhista.",
+  "n_cards": 3
+}
