@@ -1,0 +1,40 @@
+{
+  "radar": "Radar Trabalhista",
+  "data": "20 · nov · 2026",
+  "data_fonte": "Casa Civil / MTE · 19/11/2026",
+  "tag": "Nova regra",
+  "bgword": "210",
+  "kicker": "Escala 5x2 · Decreto 13.173/2026",
+  "manchete_html": "Decreto da escala 5x2 é publicado: <em>salário-hora passa ao divisor 210 e a hora extra muda em 16/12</em>",
+  "lead": "Publicado em edição extra do Diário Oficial de 19/11, o Decreto 13.173/2026 regulamenta a EC 141: 42 horas semanais e dois repousos a partir de 16/12/2026 (40 horas em dezembro de 2027), divisores 210 e 200 com salário mensal preservado, 12x36 e turnos mantidos sob negociação coletiva. Portarias do MTE começam a sair em 23/11.",
+  "fonte": "Casa Civil e MTE · Decreto 13.173/2026 · DOU extra de 19/11",
+  "fonte_url": "gov.br › casacivil › notícias",
+  "status": "em vigor; efeitos no calendário da EC 141",
+  "gancho_html": "O decreto saiu. <em>Faltam 26 dias para a folha mudar.</em>",
+  "impacto_titulo": "O que muda na sua folha em 16/12",
+  "impactos": [
+    {
+      "t": "Divisor 210: a hora fica mais cara",
+      "p": "O salário mensal não cai, mas o valor da hora sobe (R$ 3.000: de R$ 13,64 para R$ 14,29). Hora extra, adicional noturno e DSR sobre extras são recalculados; prevalece o divisor mais favorável ao empregado."
+    },
+    {
+      "t": "Dois repousos por semana, um preferencialmente no domingo",
+      "p": "Vale para contratos atuais e novos, inclusive para quem já faz 40 horas em seis dias. Redistribuir folgas no mês passa pela negociação coletiva, não por decisão unilateral."
+    },
+    {
+      "t": "12x36 e turnos continuam — com conta nova",
+      "p": "A 12x36 continua, mas a média mensal acima do limite gera compensação ou hora extra, conforme acordo ou convenção. Turnos ininterruptos: 6h diárias, salvo negociação."
+    }
+  ],
+  "risco": "Sem acordo coletivo até 15/12 vale a transição da liminar do STF (42h em cinco dias de até 8h24, sem adicional) — mas a folha já roda com o divisor novo. Quem chegar a 16/12 com 44 horas e divisor 220 paga extras a menos todo mês e se expõe a autuação e ações coletivas.",
+  "acao_titulo": "Três medidas antes da folha de dezembro",
+  "acoes": [
+    "Reparametrizar a folha: divisor 210 para 42 horas, recálculo de hora extra, adicional noturno e DSR, com simulação do custo por setor.",
+    "Redesenhar as escalas (5x2, 12x36, turnos, domingos) com dois repousos por semana e levar ao sindicato, por escrito, o que depende de acordo ou convenção.",
+    "Acompanhar as portarias do MTE a partir de 23/11 e o plenário do STF, ajustando a escala em até uma semana após cada ato."
+  ],
+  "produto": "Consultoria de Adequação à Escala 5x2",
+  "cta_titulo": "Eu ajudo sua empresa a fechar a folha de dezembro com a regra nova.",
+  "cta_texto": "A Consultoria de Adequação à Escala 5x2 começa pelo Diagnóstico Trabalhista Preventivo: escala por setor, simulação de folha com os novos divisores, revisão dos acordos e roteiro de negociação.",
+  "n_cards": 3
+}
