@@ -1,6 +1,6 @@
 # Rotina "Radar de Notícias" → carrossel no Instagram
 
-**Versão:** 1.2 · 04/11/2026 · Francisco Pytter Advocacia (1.2: varredura dedicada de societário e contratos)
+**Versão:** 1.3 · 25/11/2026 · Francisco Pytter Advocacia (1.2: varredura dedicada de societário e contratos; 1.3: terceira frente — economia com elo tributário, recuperação judicial e trabalhista)
 **Origem:** `ROTINAS_DE_PESQUISA_DE_NOTICIAS_ULTIMAS_4_SEMANAS.md` (Radar Trabalhista Preventivo + Radar Empresarial, antes no ChatGPT)
 
 ## 1. Objetivo
@@ -24,9 +24,10 @@ Transformar a notícia jurídica/empresarial mais relevante do período em um ca
 ## 3. Fluxo da execução
 
 1. **Dedupe:** listar as últimas 10 edições na pasta do Drive; extrair temas já publicados e data da última publicação.
-2. **Pesquisa web (últimas 48–72h):** fontes oficiais primeiro — tst.jus.br, stj.jus.br, stf.jus.br, gov.br/trabalho-e-emprego, mpt.mp.br e PRTs, TRTs, rad.cvm.gov.br, PGFN, Câmara/Senado — depois Migalhas, Conjur, Valor, Folha, UOL Economia, Reuters Brasil, Agência Brasil. Duas frentes, **cada uma com varredura própria e obrigatória** (a frente empresarial não pode depender das buscas gerais):
+2. **Pesquisa web (últimas 48–72h):** fontes oficiais primeiro — tst.jus.br, stj.jus.br, stf.jus.br, gov.br/trabalho-e-emprego, mpt.mp.br e PRTs, TRTs, rad.cvm.gov.br, PGFN, Câmara/Senado — depois Migalhas, Conjur, Valor, Folha, UOL Economia, Reuters Brasil, Agência Brasil. Três frentes, **cada uma com varredura própria e obrigatória** (a frente empresarial não pode depender das buscas gerais):
    - **Trabalhista preventivo:** decisões TST/TRTs/STF, atos do MTE, fiscalizações e ações do MPT, normas (NR-1, jornada/5x2, PcD, assédio, justa causa, terceirização, SST).
    - **Societário e contratos (varredura dedicada, incluída em 04/11/2026):** no mínimo estas consultas, sempre registradas no bloco técnico — (a) STJ 3ª e 4ª Turmas: contratos empresariais (inadimplência, rescisão, fornecedores, distribuição, locação empresarial, licenciamento de software/SaaS, arbitragem); (b) STJ: sociedade limitada, retirada/exclusão de sócio, apuração de haveres, responsabilidade de administradores, desconsideração da personalidade jurídica, acordo de sócios; (c) recuperação judicial/extrajudicial e falência (STJ, Câmaras Reservadas de Direito Empresarial do TJSP, TJAP, grandes casos de RJ); (d) DREI/Juntas Comerciais (instruções normativas, registro, CNPJ) e CVM (colegiado, sanções, resoluções); (e) PGFN (transação, cobrança, falência requerida pela União). Ler o Migalhas do dia e o Conjur com filtro empresarial. Fonte primária obrigatória (notícia ou acórdão no site do tribunal/órgão) antes de virar pauta.
+   - **Economia com elo tributário, recuperação judicial e trabalhista (varredura dedicada, incluída em 25/11/2026):** no mínimo estas consultas, sempre registradas no bloco técnico — (f) tributário: reforma tributária (IBS/CBS, regulamentação, prazos), Receita Federal, CARF, STJ 1ª Seção e STF em matéria tributária, Simples/MEI, PGFN (transação e cobrança) e obrigações acessórias que atinjam as empresas do público; (g) recuperação judicial e crédito: indicadores de RJ, falência e inadimplência empresarial (Serasa, CNJ, Banco Central), juros/Selic e crédito para PMEs, grandes RJs e mudanças na Lei 11.101; (h) economia do trabalho: Caged/emprego, salário mínimo, encargos e desoneração da folha, FGTS, eSocial, custo da jornada (5x2) e dados do IBGE/MTE que mexam no caixa do empregador; (i) macro com elo jurídico: câmbio, inflação, medidas do governo e do Congresso que mudem custo, tributo ou crédito das empresas (Agência Brasil, Valor, Reuters, Folha, UOL Economia, Banco Central, gov.br/fazenda). Só vira pauta se houver ato, decisão, norma ou dado oficial verificável e um elo direto com tributo, RJ/falência ou obrigação trabalhista da empresa; notícia econômica genérica, sem elo jurídico, é descartada. Rótulo do card: Radar Empresarial (kicker "Economia") ou Radar Trabalhista, conforme o elo dominante. Produto: encargos/folha/jornada → Diagnóstico Trabalhista Preventivo; RJ de cliente ou fornecedor, inadimplência, crédito → Check-up Contratual; reorganização e RJ da própria empresa → Governança + Acordo de Sócios; tributário geral e regularização → Quick Start Jurídico + Consultoria Jurídica Contínua (Consultoria 360). Se o tema tributário exigir serviço que o escritório não tem nomeado, registrar no bloco técnico e deixar o CTA genérico (Consultoria 360), sem inventar produto.
 3. **Validação mínima:** data, órgão, processo/norma, status (liminar, sem trânsito, em apuração, PL em tramitação). Sem fonte primária localizável → pauta descartada.
 4. **Decidir se publica hoje:** (a) última publicação há ≥ 2 dias úteis, ou (b) notícia de alta demanda social (repercussão nacional, números expressivos, afeta a maioria dos empregadores/empresários, prazo correndo). Caso contrário: só registra a edição, não gera card.
 5. **Mapear produto** — nomes oficiais do posicionamento (01/10/2026), que prevalecem sobre o catálogo de 31/10:
@@ -65,6 +66,7 @@ Fontes oficiais verificadas:
 Fontes secundárias verificadas:
 Notícias encontradas / descartadas (motivo):
 Varredura societário/contratos (consultas a–e executadas e resultado, mesmo que "sem fato novo"):
+Varredura economia/tributário/RJ/trabalhista (consultas f–i executadas e resultado, mesmo que "sem fato novo"):
 Pauta empresarial reserva (candidata para a próxima edição, com fonte primária a confirmar):
 Duplicidades identificadas:
 Pauta selecionada e critério (cadência | alta demanda):
