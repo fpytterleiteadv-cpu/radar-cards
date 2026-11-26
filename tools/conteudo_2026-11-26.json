@@ -1,0 +1,31 @@
+{
+  "radar": "Radar Trabalhista",
+  "data": "26 · nov · 2026",
+  "kicker": "STF · Ações trabalhistas",
+  "tag": "Decisão recente",
+  "bgword": "840",
+  "manchete_html": "STF decide que o trabalhador deve <em>indicar o valor</em> de cada pedido na ação trabalhista",
+  "lead": "Plenário julgou a ADI 6.002 e manteve a regra do art. 840 da CLT, com estimativa admitida quando o cálculo exato for inviável.",
+  "fonte": "Supremo Tribunal Federal (ADI 6.002)",
+  "fonte_url": "noticias.stf.jus.br › notícias",
+  "data_fonte": "25/11/2026",
+  "status": "julgado pelo Plenário; vale para ações após a publicação da ata",
+  "gancho_html": "A petição inicial agora fala em <em>valores.</em> Sua empresa está preparada?",
+  "impacto_titulo": "O que muda para quem é reclamado",
+  "impactos": [
+    {"t": "Pedido com valor indicado", "p": "Quando o pedido é calculado, o valor informado tende a servir de referência para a condenação."},
+    {"t": "Estimativa tem exceção", "p": "Se o cálculo exato for inviável, cabe estimativa fundamentada e a condenação pode superar o valor inicial."},
+    {"t": "Provisão mais previsível", "p": "Com valores por pedido, o financeiro consegue dimensionar melhor a contingência trabalhista."}
+  ],
+  "risco": "Sem folha, jornada e registros organizados, a empresa não consegue conferir os valores pedidos nem contestar estimativas com prova.",
+  "acao_titulo": "Três medidas para o RH e o financeiro",
+  "acoes": [
+    "Conferir se ponto, folha e recibos estão completos e acessíveis por empregado.",
+    "Mapear as contingências por tipo de pedido e rever a provisão.",
+    "Padronizar a guarda de provas internas antes de qualquer reclamação."
+  ],
+  "produto": "Diagnóstico Trabalhista Preventivo",
+  "cta_titulo": "Eu ajudo seu RH a organizar essa prova.",
+  "cta_texto": "Diagnóstico Trabalhista Preventivo: mapa de riscos, documentos e plano de ação de 30 dias para a sua operação.",
+  "n_cards": 3
+}
