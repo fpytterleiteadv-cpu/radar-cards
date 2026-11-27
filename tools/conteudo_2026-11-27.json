@@ -1,0 +1,32 @@
+{
+  "radar": "Radar Empresarial",
+  "data": "27 · nov · 2026",
+  "data_fonte": "Receita Federal · 24/11/2026",
+  "tag": "Nova regra",
+  "bgword": "2027",
+  "kicker": "Economia · Simples Nacional e reforma tributária",
+  "manchete_html": "Simples Nacional ganha novas regras para a CBS e o IBS: <em>mudanças valem a partir de 1º de janeiro de 2027</em>",
+  "lead": "A Resolução CGSN nº 196/2026 atualiza as tabelas do Simples para a entrada gradual dos novos tributos, entre 2027 e 2033, e muda a forma de informar receitas.",
+  "fonte": "Receita Federal (Comitê Gestor do Simples Nacional)",
+  "fonte_url": "gov.br › receitafederal › notícias",
+  "status": "resolução publicada; efeitos do IBS e da CBS a partir de 1º/01/2027",
+  "titulo_html": "Simples Nacional ganha novas regras para a CBS e o IBS: <em>mudanças valem a partir de 1º de janeiro de 2027</em>",
+  "gancho_html": "Sua contabilidade já está <em>preparada para 2027?</em>",
+  "impacto_titulo": "O que muda para a empresa do Simples",
+  "impactos": [
+    {"t": "Tabelas e alíquotas novas", "p": "A composição das alíquotas e a repartição entre os tributos muda com a entrada gradual da CBS e do IBS."},
+    {"t": "Receita de órgãos públicos identificada à parte", "p": "ME e EPP que vendem ao poder público devem informar essas receitas de forma específica nas declarações."},
+    {"t": "Valores a receber entram em dezembro", "p": "Valores não recebidos até 31/12/2026 entram na apuração de dezembro de 2026, sem nova tributação no recebimento."}
+  ],
+  "risco": "Sem revisar contratos, emissão de notas e fluxo de recebimento antes de janeiro, a empresa pode apurar imposto de forma errada e chegar a 2027 com caixa e declarações desalinhados.",
+  "acao_titulo": "Três medidas ainda em dezembro",
+  "acoes": [
+    "Levantar com a contabilidade os valores a receber até 31/12/2026 e o impacto na apuração de dezembro.",
+    "Separar as receitas de contratos com órgãos públicos para a declaração específica.",
+    "Revisar a precificação e as cláusulas de reajuste dos contratos que atravessam 2027."
+  ],
+  "produto": "Consultoria Jurídica Contínua (Consultoria 360)",
+  "cta_titulo": "Eu ajudo sua empresa a chegar a 2027 organizada.",
+  "cta_texto": "A Consultoria 360 acompanha contratos, obrigações e decisões da sua operação, com o jurídico trabalhando junto com a contabilidade.",
+  "n_cards": 3
+}
